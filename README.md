@@ -1,3 +1,3 @@
 # SHOP-demo
 This is my first Repository.
-Author - Madhvi Rathod - DATA ANALYST.
+Author - Madhvi Rathod.
