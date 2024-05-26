@@ -1,4 +1,4 @@
 # SHOP-demo
 This is my first Repository.
 <br>
-Author - Madhvi Rathod.
+Author - Madhvi (Data Analyst)
