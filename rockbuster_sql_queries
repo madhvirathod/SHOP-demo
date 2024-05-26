@@ -1,0 +1,4 @@
+SELECT MAX(country)
+FROM country
+SELECT COUNT(country)
+FROM country
