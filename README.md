@@ -7,5 +7,5 @@ Rockbuster Stealth LLC, a global movie rental company, is pivoting to launch an 
 ## Key Questions & Objectives
 The Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazone Prime, the Rockbuster stealth management team is planning to use its existing movie license to launch an online video rental service in order to stay competitive.
 
-`*` which movies contributed the most/least to revenue gain?
+`_` which movies contributed the most/least to revenue gain?
 
